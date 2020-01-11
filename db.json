@@ -37,7 +37,7 @@
       "title": "Don't get caught by master",
       "completed": false,
       "description": "et placeat et tempore aspernatur sint numquam",
-      "fileUrl": "http://webhelp.kiev.ua/task-board/file-sample_100kB.doc"
+      "fileUrl": "http://webhelp.kiev.ua/task-board/file-sample_100kB.docx"
     },
 
     {
@@ -46,7 +46,7 @@
       "title": "Don't get caught by cat",
       "completed": false,
       "description": "doloremque aut dolores quidem fuga qui nulla",
-      "fileUrl": "http://webhelp.kiev.ua/task-board/file-sample_100kB.docx"
+      "fileUrl": "http://webhelp.kiev.ua/task-board/file-sample_100kB.pdf"
     },
     {
       "userId": 2,
@@ -54,7 +54,7 @@
       "title": "Find cheese",
       "completed": true,
       "description": "voluptas consequatur qui ut quia magnam nemo esse",
-      "fileUrl": "http://webhelp.kiev.ua/task-board/file-sample_1MB.docx"
+      "fileUrl": "http://webhelp.kiev.ua/task-board/file-sample_500kB.docx"
     },
     {
       "userId": 3,
@@ -62,7 +62,7 @@
       "title": "Catch Minnie to love",
       "completed": false,
       "description": "fugiat pariatur ratione ut asperiores necessitatibus magni",
-      "fileUrl": "http://webhelp.kiev.ua/task-board/file-sample_1MB.docx"
+      "fileUrl": "http://webhelp.kiev.ua/task-board/file-sample_500kB.pdf"
     },
     {
       "userId": 3,
@@ -70,7 +70,7 @@
       "title": "Buy Winter jacket with a hood for Minnie",
       "completed": false,
       "description": "rerum eum molestias autem voluptatum sit optio",
-      "fileUrl": "http://webhelp.kiev.ua/task-board/file-sample_500kB.doc"
+      "fileUrl": "http://webhelp.kiev.ua/task-board/wd-spectools-word-sample-04.pdf"
     }
   ]
 }
