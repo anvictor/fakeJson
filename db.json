@@ -26,7 +26,7 @@
     {
       "userId": 1,
       "id": 1,
-      "title": "delectus aut autem",
+      "title": "Kill the mouse",
       "completed": false,
       "description": "odit optio omnis qui sunt",
       "fileUrl": "http://webhelp.kiev.ua/task-board/file-sample_1MB.docx"
@@ -34,7 +34,7 @@
     {
       "userId": 1,
       "id": 2,
-      "title": "quis ut nam facilis et officia qui",
+      "title": "Don't get caught by master",
       "completed": false,
       "description": "et placeat et tempore aspernatur sint numquam",
       "fileUrl": "http://webhelp.kiev.ua/task-board/file-sample_100kB.doc"
@@ -43,7 +43,7 @@
     {
       "userId": 2,
       "id": 39,
-      "title": "doloremque quibusdam asperiores libero corrupti illum qui omnis",
+      "title": "Don't get caught by cat",
       "completed": false,
       "description": "doloremque aut dolores quidem fuga qui nulla",
       "fileUrl": "http://webhelp.kiev.ua/task-board/file-sample_100kB.docx"
@@ -51,7 +51,7 @@
     {
       "userId": 2,
       "id": 40,
-      "title": "totam atque quo nesciunt",
+      "title": "Find cheese",
       "completed": true,
       "description": "voluptas consequatur qui ut quia magnam nemo esse",
       "fileUrl": "http://webhelp.kiev.ua/task-board/file-sample_1MB.docx"
@@ -59,7 +59,7 @@
     {
       "userId": 3,
       "id": 41,
-      "title": "aliquid amet impedit consequatur aspernatur placeat eaque fugiat suscipit",
+      "title": "Catch Minnie to love",
       "completed": false,
       "description": "fugiat pariatur ratione ut asperiores necessitatibus magni",
       "fileUrl": "http://webhelp.kiev.ua/task-board/file-sample_1MB.docx"
@@ -67,7 +67,7 @@
     {
       "userId": 3,
       "id": 42,
-      "title": "rerum perferendis error quia ut eveniet",
+      "title": "Buy Winter jacket with a hood for Minnie",
       "completed": false,
       "description": "rerum eum molestias autem voluptatum sit optio",
       "fileUrl": "http://webhelp.kiev.ua/task-board/file-sample_500kB.doc"
