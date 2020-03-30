@@ -1,76 +1,39 @@
 {
-  "users": [
+  "types"
+:
+  ["for new born", "for child", "for teens", "for adults", "for olds"],
+    "categories"
+:
+  ["cars", "health", "sport", "food", "education"],
+    "news"
+:
+  [
     {
-      "id": 1,
-      "name": "Tom",
-      "email": "tom@gmail.com",
-      "pass": "tom123",
-      "photo": "http://webhelp.kiev.ua/task-board/tom.jpg"
+      "id": "newsId:00",
+      "Title": "news Tom",
+      "Description": "Odit optio omnis qui sunt",
+      "Image": "http://webhelp.kiev.ua/task-board/tom.jpg",
+      "IsPublished": true,
+      "Type": "for man",
+      "Category": "cars"
     },
     {
-      "id": 2,
-      "name": "Jerry",
-      "email": "jerry@gmail.com",
-      "pass": "jerry123",
-      "photo": "http://webhelp.kiev.ua/task-board/jerry.jpg"
+      "id": "newsId:01",
+      "Title": "news Jerry",
+      "Description": "Et placeat et tempore aspernatur sint numquam",
+      "Image": "http://webhelp.kiev.ua/task-board/jerry.jpg",
+      "IsPublished": true,
+      "Type": "for man",
+      "Category": "cars"
     },
     {
-      "id": 3,
-      "name": "Mickey",
-      "email": "mickey@gmail.com",
-      "pass": "mickey123",
-      "photo": "http://webhelp.kiev.ua/task-board/mickey.jpg"
-    }
-  ],
-  "tasks":[
-    {
-      "userId": 1,
-      "id": 1,
-      "title": "Kill the mouse",
-      "completed": false,
-      "description": "odit optio omnis qui sunt",
-      "fileUrl": "http://webhelp.kiev.ua/task-board/file-sample_1MB.docx"
-    },
-    {
-      "userId": 1,
-      "id": 25,
-      "title": "Don't get caught by master",
-      "completed": false,
-      "description": "et placeat et tempore aspernatur sint numquam",
-      "fileUrl": "http://webhelp.kiev.ua/task-board/file-sample_100kB.docx"
-    },
-
-    {
-      "userId": 2,
-      "id": 39,
-      "title": "Don't get caught by cat",
-      "completed": false,
-      "description": "doloremque aut dolores quidem fuga qui nulla",
-      "fileUrl": "http://webhelp.kiev.ua/task-board/file-sample_100kB.pdf"
-    },
-    {
-      "userId": 2,
-      "id": 43,
-      "title": "Find cheese",
-      "completed": true,
-      "description": "voluptas consequatur qui ut quia magnam nemo esse",
-      "fileUrl": "http://webhelp.kiev.ua/task-board/file-sample_500kB.docx"
-    },
-    {
-      "userId": 3,
-      "id": 51,
-      "title": "Catch Minnie to love",
-      "completed": false,
-      "description": "fugiat pariatur ratione ut asperiores necessitatibus magni",
-      "fileUrl": "http://webhelp.kiev.ua/task-board/file-sample_500kB.pdf"
-    },
-    {
-      "userId": 3,
-      "id": 59,
-      "title": "Buy Winter jacket with a hood for Minnie",
-      "completed": false,
-      "description": "rerum eum molestias autem voluptatum sit optio",
-      "fileUrl": "http://webhelp.kiev.ua/task-board/wd-spectools-word-sample-04.pdf"
+      "id": "newsId:02",
+      "Title": "news Mickey",
+      "Description": "Doloremque aut dolores quidem fuga qui nulla",
+      "Image": "http://webhelp.kiev.ua/task-board/mickey.jpg",
+      "IsPublished": true,
+      "Type": "for man",
+      "Category": "cars"
     }
   ]
 }
