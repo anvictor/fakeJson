@@ -4,7 +4,7 @@
   ["for new born", "for child", "for teens", "for adults", "for olds"],
     "categories"
 :
-  ["cars", "health", "sport", "food", "education"],
+  ["tom", "jerry", "mickey"],
     "news"
 :
   [
@@ -15,7 +15,7 @@
       "Image": "http://webhelp.kiev.ua/task-board/tom.jpg",
       "IsPublished": true,
       "Type": "for new born",
-      "Category": "cars"
+      "Category": "tom"
     },
     {
       "id": "newsId:01",
@@ -24,7 +24,7 @@
       "Image": "http://webhelp.kiev.ua/task-board/jerry.jpg",
       "IsPublished": true,
       "Type": "for child",
-      "Category": "health"
+      "Category": "jerry"
     },
     {
       "id": "newsId:02",
@@ -33,7 +33,7 @@
       "Image": "http://webhelp.kiev.ua/task-board/mickey.jpg",
       "IsPublished": true,
       "Type": "for teens",
-      "Category": "food"
+      "Category": "mickey"
     }
   ]
 }
