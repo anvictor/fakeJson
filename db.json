@@ -1,7 +1,31 @@
 {
   "types"
 :
-  ["for new born", "for child", "for teens", "for adults", "for olds"],
+  ["for new born", "This what they all been waiting for
+I guess so
+They been waiting for this shit for a long time didn't they
+I'ma give it everything I got
+Ayo Dougie park that X6 around the corner
+Aye I'm just feeling my vibe right now
+I'm feeling myself
+Panda, Panda
+Panda, Panda, Panda, Panda, Panda
+I got broads in Atlanta
+Twisting dope, lean, and the Fanta
+Credit cards and scammers
+Hitting off licks in the bando
+Black X6, Phantom
+White X6 looks like a panda
+Going out like I'm Montana
+Hundred killers, hundred hammers
+Black X6, Phantom
+White X6, panda
+Pockets swole, Danny
+Selling bar, candy
+Man I'm the mocho like Randy
+The choppa go Oscar for Grammy
+Bitch nigga pull up ya panty
+Hope you killas understand me"],
     "categories"
 :
   ["tom", "jerry", "mickey"],
@@ -12,7 +36,7 @@
       "id": "newsId:00",
       "Title": "news Tom",
       "Description": "Odit optio omnis qui sunt",
-      "Image": "http://webhelp.kiev.ua/task-board/tom.jpg",
+      "Image": "https://img2.chinadaily.com.cn/images/202001/13/5e1be3e6a310cf3e97b0bbbc.jpeg",
       "IsPublished": true,
       "Type": "for new born",
       "Category": "tom"
@@ -20,8 +44,10 @@
     {
       "id": "newsId:01",
       "Title": "news Jerry",
-      "Description": "Et placeat et tempore aspernatur sint numquam",
-      "Image": "http://webhelp.kiev.ua/task-board/jerry.jpg",
+      "Description": "Foxes are small to medium-sized, omnivorous mammals belonging to several genera of the family Canidae. Foxes have a flattened skull, upright triangular ears, a pointed, slightly upturned snout, and a long bushy tail (or brush).
+
+Twelve species belong to the monophyletic "true foxes" group of genus Vulpes. Approximately another 25 current or extinct species are always or sometimes called foxes; these foxes are either part of the paraphyletic group of the South American foxes, or of the outlying group, which consists of the bat-eared fox, gray fox, and island fox.[1] Foxes live on every continent except Antarctica.",
+      "Image": "https://www.rokmikuletic.com/wp-content/uploads/2019/03/Otroski-nasmeh_photos_2000pix-min.jpg",
       "IsPublished": true,
       "Type": "for child",
       "Category": "jerry"
@@ -29,8 +55,8 @@
     {
       "id": "newsId:02",
       "Title": "news Mickey",
-      "Description": "Doloremque aut dolores quidem fuga qui nulla",
-      "Image": "http://webhelp.kiev.ua/task-board/mickey.jpg",
+      "Description": "I wasn’t aware that owls can eat kittens. Since I find out this I started to dislike owls. They are smart birds, but they shouldn’t eat pets. In our culture there are so many myths about owls. When an owl is singing people believe that someone will die. We have many owls in our neigbourhood. We even have a nest here. At night owls create a lot of noise. I hear them even when I sleep. I see them flying. They are big. Do you like owls?",
+      "Image": "https://cdn.virily.com/wp-content/uploads/2018/11/owl.jpg",
       "IsPublished": true,
       "Type": "for teens",
       "Category": "mickey"
