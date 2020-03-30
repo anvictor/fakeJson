@@ -14,7 +14,7 @@
       "Description": "Odit optio omnis qui sunt",
       "Image": "http://webhelp.kiev.ua/task-board/tom.jpg",
       "IsPublished": true,
-      "Type": "for man",
+      "Type": "for new born",
       "Category": "cars"
     },
     {
@@ -23,8 +23,8 @@
       "Description": "Et placeat et tempore aspernatur sint numquam",
       "Image": "http://webhelp.kiev.ua/task-board/jerry.jpg",
       "IsPublished": true,
-      "Type": "for man",
-      "Category": "cars"
+      "Type": "for child",
+      "Category": "health"
     },
     {
       "id": "newsId:02",
@@ -32,8 +32,8 @@
       "Description": "Doloremque aut dolores quidem fuga qui nulla",
       "Image": "http://webhelp.kiev.ua/task-board/mickey.jpg",
       "IsPublished": true,
-      "Type": "for man",
-      "Category": "cars"
+      "Type": "for teens",
+      "Category": "food"
     }
   ]
 }
