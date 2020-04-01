@@ -1,4 +1,5 @@
 {
+  "Channels":["Cars","Pets","Food","Sport","Health","Markets","Finance","Tourism","Politics"],
   "types"
 :
   ["for new born", "for child", "for teens", "for adult", "for old"],
