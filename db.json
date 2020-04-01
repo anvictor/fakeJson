@@ -1,5 +1,14 @@
 {
-  "Channels":["Cars","Pets","Food","Sport","Health","Markets","Finance","Tourism","Politics"],
+  "Channels":[
+    {"id":"channelId:00","name":"Cars"},
+    {"id":"channelId:01","name":"Pets"},
+    {"id":"channelId:02","name":"Food"},
+    {"id":"channelId:03","name":"Sport"},
+    {"id":"channelId:04","name":"Health"},
+    {"id":"channelId:05","name":"Markets"},
+    {"id":"channelId:06","name":"Finance"},
+    {"id":"channelId:07","name":"Tourism"},
+    {"id":"channelId:08","name":"Politics"}],
   "types"
 :
   ["for new born", "for child", "for teens", "for adult", "for old"],
