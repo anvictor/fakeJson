@@ -11,7 +11,13 @@
     {"id":"channelId:08","name":"Politics"}],
   "types"
 :
-  ["for new born", "for child", "for teens", "for adult", "for old"],
+  [
+    {"id":"typeId:00","name":"for new born"},
+    {"id":"typeId:01","name":"for child"},
+    {"id":"typeId:02","name":"for teens"},
+    {"id":"typeId:03","name":"for adult"},
+    {"id":"typeId:04","name":"for old"}
+  ],
     "categories"
 :
   ["tom", "jerry", "mickey"],
