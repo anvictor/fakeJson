@@ -1,5 +1,5 @@
 {
-  "Channels":[
+  "categories":[
     {"id":"channelId:00","name":"Cars"},
     {"id":"channelId:01","name":"Pets"},
     {"id":"channelId:02","name":"Food"},
@@ -18,9 +18,6 @@
     {"id":"typeId:03","name":"for adult"},
     {"id":"typeId:04","name":"for old"}
   ],
-    "categories"
-:
-  ["tom", "jerry", "mickey"],
     "news"
 :
   [
