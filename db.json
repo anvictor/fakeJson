@@ -28,7 +28,7 @@
       "Image": "https://img2.chinadaily.com.cn/images/202001/13/5e1be3e6a310cf3e97b0bbbc.jpeg",
       "IsPublished": true,
       "Type": {"id":"typeId:00","name":"for new born"},
-      "Category":{"id":"categoryId:00","name":"Cars"},
+      "Category":{"id":"categoryId:00","name":"Cars"}
     },
     {
       "id": "newsId:01",
@@ -37,7 +37,7 @@
       "Image": "https://www.rokmikuletic.com/wp-content/uploads/2019/03/Otroski-nasmeh_photos_2000pix-min.jpg",
       "IsPublished": false,
       "Type":  {"id":"typeId:01","name":"for child"},
-      "Category": {"id":"categoryId:01","name":"Pets"},
+      "Category": {"id":"categoryId:01","name":"Pets"}
     },
     {
       "id": "newsId:02",
@@ -46,7 +46,7 @@
       "Image": "https://cdn.virily.com/wp-content/uploads/2018/11/owl.jpg",
       "IsPublished": true,
       "Type": {"id":"typeId:02","name":"for teens"},
-      "Category": {"id":"categoryId:02","name":"Food"},
+      "Category": {"id":"categoryId:02","name":"Food"}
     }
   ]
 }
