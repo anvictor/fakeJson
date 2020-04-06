@@ -1,14 +1,14 @@
 {
   "categories":[
-    {"id":"channelId:00","name":"Cars"},
-    {"id":"channelId:01","name":"Pets"},
-    {"id":"channelId:02","name":"Food"},
-    {"id":"channelId:03","name":"Sport"},
-    {"id":"channelId:04","name":"Health"},
-    {"id":"channelId:05","name":"Markets"},
-    {"id":"channelId:06","name":"Finance"},
-    {"id":"channelId:07","name":"Tourism"},
-    {"id":"channelId:08","name":"Politics"}],
+    {"id":"categoryId:00","name":"Cars"},
+    {"id":"categoryId:01","name":"Pets"},
+    {"id":"categoryId:02","name":"Food"},
+    {"id":"categoryId:03","name":"Sport"},
+    {"id":"categoryId:04","name":"Health"},
+    {"id":"categoryId:05","name":"Markets"},
+    {"id":"categoryId:06","name":"Finance"},
+    {"id":"categoryId:07","name":"Tourism"},
+    {"id":"categoryId:08","name":"Politics"}],
   "types"
 :
   [
@@ -27,8 +27,8 @@
       "Description": "This what they all been waiting for I guess so They been waiting for this shit for a long time didn't they I'ma give it everything I got Ayo Dougie park that X6 around the corner Aye I'm just feeling my vibe right now I'm feeling myself Panda, Panda Panda, Panda, Panda, Panda, Panda I got broads in Atlanta Twisting dope, lean, and the Fanta Credit cards and scammers Hitting off licks in the bando Black X6, Phantom White X6 looks like a panda Going out like I'm Montana Hundred killers, hundred hammers Black X6, Phantom White X6, panda Pockets swole, Danny Selling bar, candy Man I'm the mocho like Randy The choppa go Oscar for Grammy Bitch nigga pull up ya panty Hope you killas understand me",
       "Image": "https://img2.chinadaily.com.cn/images/202001/13/5e1be3e6a310cf3e97b0bbbc.jpeg",
       "IsPublished": true,
-      "Type": "for new born",
-      "Category": "Cars"
+      "Type": {"id":"typeId:00","name":"for new born"},
+      "Category":{"id":"categoryId:00","name":"Cars"},
     },
     {
       "id": "newsId:01",
@@ -36,8 +36,8 @@
       "Description": "Foxes are small to medium-sized, omnivorous mammals belonging to several genera of the family Canidae. Foxes have a flattened skull, upright triangular ears, a pointed, slightly upturned snout, and a long bushy tail (or brush). Twelve species belong to the monophyletic true foxes group of genus Vulpes. Approximately another 25 current or extinct species are always or sometimes called foxes; these foxes are either part of the paraphyletic group of the South American foxes, or of the outlying group, which consists of the bat-eared fox, gray fox, and island fox.[1] Foxes live on every continent except Antarctica.",
       "Image": "https://www.rokmikuletic.com/wp-content/uploads/2019/03/Otroski-nasmeh_photos_2000pix-min.jpg",
       "IsPublished": false,
-      "Type": "for child",
-      "Category": "Pets"
+      "Type":  {"id":"typeId:01","name":"for child"},
+      "Category": {"id":"categoryId:01","name":"Pets"},
     },
     {
       "id": "newsId:02",
@@ -45,8 +45,8 @@
       "Description": "I wasn’t aware that owls can eat kittens. Since I find out this I started to dislike owls. They are smart birds, but they shouldn’t eat pets. In our culture there are so many myths about owls. When an owl is singing people believe that someone will die. We have many owls in our neigbourhood. We even have a nest here. At night owls create a lot of noise. I hear them even when I sleep. I see them flying. They are big. Do you like owls?",
       "Image": "https://cdn.virily.com/wp-content/uploads/2018/11/owl.jpg",
       "IsPublished": true,
-      "Type": "for teens",
-      "Category": "Food"
+      "Type": {"id":"typeId:02","name":"for teens"},
+      "Category": {"id":"categoryId:02","name":"Food"},
     }
   ]
 }
