@@ -54,8 +54,8 @@
       "Description": "Where is the image",
       "Image": "",
       "IsPublished": true,
-      "Type": {"id":"categoryId:04","name":"Health"},
-      "Category": {"id":"typeId:03","name":"for adult"}
+      "Type": {"id":"typeId:03","name":"for adult"},
+      "Category": {"id":"categoryId:04","name":"Health"}
     }
   ]
 }
