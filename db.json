@@ -47,6 +47,15 @@
       "IsPublished": true,
       "Type": {"id":"typeId:02","name":"for teens"},
       "Category": {"id":"categoryId:02","name":"Food"}
+    },
+    {
+      "id": "newsId:03",
+      "Title": "News without picture",
+      "Description": "Where is the image",
+      "Image": "",
+      "IsPublished": true,
+      "Type": {"id":"categoryId:04","name":"Health"},
+      "Category": {"id":"typeId:03","name":"for adult"}
     }
   ]
 }
