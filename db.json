@@ -51,7 +51,7 @@
     {
       "id": "newsId:03",
       "Title": "News without picture",
-      "Description": "Where is the image",
+      "Description": "Look at the avatar of this news. If news is imageless then it use neutral globonews avatar.",
       "Image": "",
       "IsPublished": true,
       "Type": {"id":"typeId:03","name":"for adult"},
